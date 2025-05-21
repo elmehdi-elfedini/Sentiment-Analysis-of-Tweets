@@ -1,4 +1,3 @@
-# SentimLytics: Analyseur de Sentiments Twitter
 
 Cette application permet d'analyser les sentiments exprimés dans des tweets. Elle offre des fonctionnalités pour explorer les données, prétraiter le texte des tweets, effectuer une analyse des sentiments et visualiser les résultats.
 

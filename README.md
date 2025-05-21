@@ -58,13 +58,11 @@ Cette application permet d'analyser les sentiments exprimés dans des tweets. El
 
 3.  **Installez les dépendances :**
     ```bash
-    pip install streamlit pandas plotly hydralit-components nltk
+    pip install -r requirements.txt
     ```
-    *(Si vous utilisez Pillow pour un nuage de mots avec masque, ajoutez `Pillow` à cette liste)*
 
 4.  **Préparez vos données :**
-    *   Assurez-vous d'avoir un fichier `chatgpt1.csv` dans le même dossier que `app.py`. Ce fichier doit contenir au minimum les colonnes `Text` (le contenu du tweet), `Language` (code langue, ex: 'en'), et `hashtag`.
-    *   Si vous utilisez une image pour le titre (ex: `image.png`), placez-la également dans ce dossier.
+    *   Assurez-vous d'avoir un fichier `chatgpt1.csv` dans le même dossier que `app.py`. 
 
 ### Exécution de l'Application
 

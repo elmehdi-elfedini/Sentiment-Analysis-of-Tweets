@@ -1,6 +1,6 @@
-# SentimLytics: Analyseur de Sentiments Twitter
+# Analyseur de Sentiments Twitter
 
-**SentimLytics** est une application web interactive construite avec Streamlit qui permet d'analyser les sentiments exprimés dans des tweets. Elle offre des fonctionnalités pour explorer les données, prétraiter le texte des tweets, effectuer une analyse des sentiments et visualiser les résultats.
+C'est une application qui permet d'analyser les sentiments exprimés dans des tweets. Elle offre des fonctionnalités pour explorer les données, prétraiter le texte des tweets, effectuer une analyse des sentiments et visualiser les résultats.
 
 ## ✨ Fonctionnalités Principales
 

@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+hydralit-components
+nltk
+pillow
